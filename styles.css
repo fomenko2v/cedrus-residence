@@ -59,8 +59,6 @@ width: 100%;
 }
 .page2 {
     background-color: #e2ded4;
-    border-top: 1px solid #e7934e;
-    border-bottom: 1px solid #e7934e;
 }
 .footer {
 background-color: #f0f0f0;
@@ -68,7 +66,7 @@ padding: 10px;
 }
 .logo1 {
 color: #ffffff;  
-font-family:  Georgia, serif; 
+font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
 font-size: 40px;
 line-height: 44px;
 
@@ -96,7 +94,7 @@ line-height: 12px;
 }
 .h11 {
     color: #2d2828;
-    text-align: center;
+    text-align: left;
     font-family: Verdana, sans-serif;
     font-size: 22px;
     line-height: 24px;
@@ -106,7 +104,7 @@ line-height: 12px;
 .h2 {
     color: #e7934e;
     text-align: center;
-    font-family:  Georgia, serif; 
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
     font-size: 20px;
     line-height: 24px;
     Margin-bottom: 22px;
@@ -115,7 +113,8 @@ line-height: 12px;
 .h3 {
     color: #2d2828;
     text-align: center;
-    font-family:  Georgia, serif; 
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
+
     font-size: 20px;
     line-height: 24px;
     Margin-bottom: 22px;
@@ -124,7 +123,7 @@ line-height: 12px;
 .p1 {
     color: #ffffff;
     text-align: left;
-    font-family:  Georgia, serif; 
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
     font-size: 16px;
     line-height: 22px;
     Margin-bottom: 16px;
@@ -135,12 +134,15 @@ line-height: 12px;
 }
 .p3 {
     color: #2d2828;
-    text-align: center;
-    font-family:  Georgia, serif; 
-    font-size: 16px;
+    text-align: left;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
+    font-size: 17px;
     line-height: 22px;
     Margin-bottom: 16px;
     font-weight: normal;
+}
+.p3 a {
+    color: #e7934e;
 }
 .p2 {
     color: #cccccc;
@@ -157,7 +159,7 @@ line-height: 12px;
 .p4 {
     color: #2d2828;
     text-align: center;
-    font-family: Verdana, sans-serif;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
     font-size: 12px;
     line-height: 22px;
     Margin-bottom: 16px;
@@ -168,12 +170,11 @@ line-height: 12px;
     padding-bottom: 20px;
 }
 .ButtonContent {
-    border: 2px solid #e7934e;
     background-color: #2d2828;
     height: 40px;
 }
 .ButtonContent2 {
-    border: 2px solid #e7934e;
+
     background-color: #2d2828;
     height: 40px;
 }
@@ -193,7 +194,7 @@ text-transform: uppercase;
 width: 220px;
 font-size: 14px;
 line-height: 40px;
-font-family: Verdana, sans-serif;
+font-family:"Times New Roman", Times, Baskerville, Georgia, serif; 
 color: #e7934e;
 display:block;
 font-weight:normal;
@@ -206,5 +207,5 @@ text-transform: uppercase;
     padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 10px;    
-    border-top: 5px solid #e7934e;
+
 }
