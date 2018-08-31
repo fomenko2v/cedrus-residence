@@ -51,6 +51,8 @@ width: 100%;
 }
 .header {
     background-color: #2d2828;
+    padding-top: 5px;
+    padding-bottom: 20px;
 }
 .page {
     background-color: #413835;
@@ -60,8 +62,16 @@ width: 100%;
 .page2 {
     background-color: #e2ded4;
 }
+.page3 {
+    background-color: #2d2828;
+}
+
 .footer {
 background-color: #f0f0f0;
+padding: 10px;
+}
+.footer3 {
+  background-color: #2d2828;
 padding: 10px;
 }
 .logo1 {
@@ -80,8 +90,8 @@ line-height: 12px;
 .text {
     padding-top: 25px;
     padding-bottom: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .h1 {
     color: #ffffff;
@@ -95,7 +105,7 @@ line-height: 12px;
 .h11 {
     color: #2d2828;
     text-align: left;
-    font-family: Verdana, sans-serif;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif; 
     font-size: 22px;
     line-height: 24px;
     Margin-bottom: 18px;
